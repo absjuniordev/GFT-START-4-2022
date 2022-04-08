@@ -1,0 +1,15 @@
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\bin\Debug\net6.0\Atividade_01.exe
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\bin\Debug\net6.0\Atividade_01.deps.json
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\bin\Debug\net6.0\Atividade_01.runtimeconfig.json
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\bin\Debug\net6.0\Atividade_01.dll
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\bin\Debug\net6.0\Atividade_01.pdb
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\Atividade_01.csproj.AssemblyReference.cache
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\Atividade_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\Atividade_01.AssemblyInfoInputs.cache
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\Atividade_01.AssemblyInfo.cs
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\Atividade_01.csproj.CoreCompileInputs.cache
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\Atividade_01.dll
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\refint\Atividade_01.dll
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\Atividade_01.pdb
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\Atividade_01.genruntimeconfig.cache
+C:\Teste final da GFT\GFT STARTER #4\Atividade_01\obj\Debug\net6.0\ref\Atividade_01.dll
