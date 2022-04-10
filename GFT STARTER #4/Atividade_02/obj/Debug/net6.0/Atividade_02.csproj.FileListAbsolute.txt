@@ -13,3 +13,18 @@ C:\Teste final da GFT\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\refint\Ativid
 C:\Teste final da GFT\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.pdb
 C:\Teste final da GFT\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.genruntimeconfig.cache
 C:\Teste final da GFT\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\ref\Atividade_02.dll
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\bin\Debug\net6.0\Atividade_02.exe
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\bin\Debug\net6.0\Atividade_02.deps.json
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\bin\Debug\net6.0\Atividade_02.runtimeconfig.json
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\bin\Debug\net6.0\Atividade_02.dll
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\bin\Debug\net6.0\ref\Atividade_02.dll
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\bin\Debug\net6.0\Atividade_02.pdb
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.csproj.AssemblyReference.cache
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.AssemblyInfoInputs.cache
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.AssemblyInfo.cs
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.csproj.CoreCompileInputs.cache
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.dll
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\ref\Atividade_02.dll
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.pdb
+C:\Users\admes\Documents\Porgetos do git\GFT STARTER #4\Atividade_02\obj\Debug\net6.0\Atividade_02.genruntimeconfig.cache

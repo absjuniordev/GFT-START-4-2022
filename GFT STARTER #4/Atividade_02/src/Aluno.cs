@@ -9,10 +9,11 @@ namespace Atividade_02
             this.Nota2 = nota2;
             this.Nota3 = nota3;
             this.Frequencia = frequencia;
-        }
-        public Aluno()
-        {
 
+            if (this.Frequencia < 3)
+            {
+                Aluno.FrequenciaParaAprovacao++;
+            }
         }
 
         public string Matricula { get; private set; }
@@ -21,7 +22,9 @@ namespace Atividade_02
         public double Nota3 { get; private set; }
         private double Media { get; set; }
         public int Frequencia { get; set; }
-     
+        public static int FrequenciaParaAprovacao { get; set; }
+        public static int Aprovadocao { get; set; }
+
         public double MediaAluno()
         {
             this.Media = (this.Nota1 + this.Nota2 + this.Nota3) / 3;
@@ -37,6 +40,7 @@ namespace Atividade_02
             }
             else
             {
+                Aluno.Aprovadocao++;
                 return false;
             }
         }
